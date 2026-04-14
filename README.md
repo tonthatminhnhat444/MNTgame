@@ -151,8 +151,9 @@ cd MNTgame
 
 ---
 
-# . LƯU Ý TRƯỚC KHI CÀI DATABASE
-1. File JAR đã được build sẵn và có sẵn cấu hình kết nối database.
+# . LƯU Ý 
+1. File MNTGame.jar đã được build sẵn và đã cấu hình kết nối database.
+Hãy đảm bảo bạn đã cài đặt JDK 22 và thiết lập môi trường database thành công thì mới có thể chạy game này.
 
 2. Trong trường hợp chạy game nhưng không lưu được dữ liệu hoặc không hiển thị kết quả:
 a. Kiểm tra MySQL Server đã chạy chưa  
@@ -198,8 +199,8 @@ java -version
 a. Yêu cầu: JDK 22 trở lên (class file version 66.0)
 
 2. Cài Java (nếu chưa có)
-a. https://www.oracle.com/java/technologies/downloads/  
-b. Tải JDK 22+
+ Tải JDK 22+ https://www.oracle.com/java/technologies/downloads/  
+
 
 # CHẠY GAME
 
