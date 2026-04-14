@@ -182,12 +182,11 @@ CREATE TABLE player_scores (
 );
 ```
 
- 3. MySQL Connector
-a. Đã có sẵn trong project:
+ 3. MySQL Connector 
+ Version mysql-connector-9.6.0.jar
 
-```
-lib/mysql-connector-9.6.0.jar
-```
+Link tải trực tiếp (trang download):
+https://dev.mysql.com/downloads/connector/j/
 
 # CÀI ĐẶT JAVA
 
