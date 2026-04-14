@@ -141,7 +141,7 @@ your-project/
 
 # . CLONE PROJECT
 
-1. Clone từ GitHub:
+1. Clone từ GitHub: 
 git clone https://github.com/tonthatminhnhat444/MNTgame
 cd MNTgame
 
