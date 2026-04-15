@@ -221,7 +221,7 @@ CREATE TABLE player_scores (
 );
 ```
 
- 3. MySQL Connector 
+- MySQL Connector 
  Version mysql-connector-9.6.0.jar
 
 Link tải trực tiếp (trang download):
