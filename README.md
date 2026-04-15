@@ -51,7 +51,7 @@ Mục tiêu là đến đích cuối cùng để hoàn thành game và đạt đ
 ```
 MNTgame/
 │
-├── src/
+├── src/GameDemo
 │   ├── DatabaseManager.java
 │   ├── EndScreen.java
 │   ├── GamePanel.java
