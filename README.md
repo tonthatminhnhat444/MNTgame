@@ -210,12 +210,12 @@ a. Yêu cầu: JDK 22 trở lên (class file version 66.0)
 java -jar JavaGame.jar
 ```
  Hoặc double click:
-JavaGame.jar
+MNTGame.jar
 
 
 2. Chạy bằng command line
 ```bash
-java -cp "JavaGame.jar;lib/mysql-connector-9.6.0.jar" GameDemo.Main
+java -cp "MNTGame.jar;lib/mysql-connector-9.6.0.jar" GameDemo.Main
 ```
  macOS/Linux thay `;` bằng `:`
 
