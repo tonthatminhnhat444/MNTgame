@@ -203,9 +203,9 @@ Mở file DatabaseManager.java và chỉnh lại:
 - String password = "your_password";
 
 Ví dụ trong code:
-String url = "jdbc:mysql://localhost:65534/gamedb";
-String user = "root";
-String password = "pass";
+- String url = "jdbc:mysql://localhost:65534/gamedb";
+- String user = "root";
+- String password = "pass";
  
 ```sql
 CREATE DATABASE gamedb;
