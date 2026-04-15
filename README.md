@@ -244,7 +244,7 @@ a. Yêu cầu: JDK 22 trở lên (class file version 66.0)
 
 1. Chạy bằng file JAR (khuyên dùng)
 ```bash
-java -jar JavaGame.jar
+java -jar MNTGame.jar
 ```
  Hoặc double click:
 MNTGame.jar
@@ -278,7 +278,7 @@ SELECT * FROM player_scores;
 
 * Nếu lỗi khi chạy JAR:
 ```bash
-java --enable-preview -jar JavaGame.jar
+java --enable-preview -jar MNTGame.jar
 ```
 * Nếu database sai:
    Game vẫn chạy bình thường  
