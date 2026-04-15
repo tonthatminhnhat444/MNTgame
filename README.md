@@ -198,12 +198,14 @@ Nếu sai port → game sẽ lỗi:
 * Cách sử dụng port trong project:
 
 Mở file DatabaseManager.java và chỉnh lại:
-jdbc:mysql://localhost:3306/gamedb
+- jdbc:mysql://localhost:XXXX/gamedb
+- String user = "root";
+- String password = "your_password";
 
 Ví dụ trong code:
-String url = "jdbc:mysql://localhost:3306/gamedb";
+String url = "jdbc:mysql://localhost:65534/gamedb";
 String user = "root";
-String password = "your_password";
+String password = "pass";
  
 ```sql
 CREATE DATABASE gamedb;
