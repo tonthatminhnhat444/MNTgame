@@ -165,29 +165,29 @@ c. Thực hiện cài đặt database thủ công nếu chưa có dữ liệu
 
 1. CÀI MySQL
 a. Cài đặt
-  Cài MySQL Server
-  Cài MySQL Workbench
+  -Cài MySQL Server
+  -Cài MySQL Workbench
 b. Tài khoản mặc định
-  Username: root
-  Password: (mật khẩu bạn đã đặt khi cài MySQL)
+  -Username: root
+  -Password: (mật khẩu bạn đã đặt khi cài MySQL)
 
 2. KIỂM TRA PORT MYSQL
-   MySQL không phải lúc nào cũng dùng port 3306.
+   -MySQL không phải lúc nào cũng dùng port 3306.
 
 ✔ Cách kiểm tra port:
 Cách 1: Trong MySQL Workbench
-   Vào: Server Status
-   Hoặc xem connection
+   -Vào: Server Status
+   -Hoặc xem connection
 Cách 2: SQL query
-   SHOW VARIABLES LIKE 'port';
+   -SHOW VARIABLES LIKE 'port';
 
  *Kết quả có thể là:
-   3306 (mặc định)
-   3307
-   66405 (MySQL instance khác)
+   -3306 (mặc định)
+   -3307
+   -66405 (MySQL instance khác)
  *Nếu sai port → game sẽ lỗi:
-   Cannot connect to database
-   Connection refused
+   -Cannot connect to database
+   -Connection refused
    
  *Mở MySQL Workbench và chạy:
  
