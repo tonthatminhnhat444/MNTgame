@@ -206,7 +206,8 @@ Ví dụ trong code:
 - String url = "jdbc:mysql://localhost:65534/gamedb";
 - String user = "root";
 - String password = "pass";
- 
+
+- TẠO DATABASE
 ```sql
 CREATE DATABASE gamedb;
 USE gamedb;
