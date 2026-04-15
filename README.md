@@ -84,9 +84,10 @@ MNTgame/
 │   ├── taki1.png
 │   └── taki2.png
 │
-├── database/
-│   └── database.txt
-│
+├── Screen Short Image/
+│   
+├── MNTGame.jar
+├── database.txt
 └── README.md
 ```
 
