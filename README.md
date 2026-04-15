@@ -2,7 +2,7 @@
 
  1. Giới thiệu
 
-大阪宝物を探そう là một game 2D tile-based được xây dựng bằng Java Swing, 
+大阪の宝物を探そう là một game 2D tile-based được xây dựng bằng Java Swing, 
 kết hợp giữa gameplay và hệ thống câu hỏi trắc nghiệm nhằm tạo trải nghiệm vừa chơi vừa học.
 
 Người chơi điều khiển nhân vật di chuyển trên bản đồ, vượt qua các thử thách bằng cách trả lời câu hỏi trắc nghiệm.  
