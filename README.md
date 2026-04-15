@@ -177,9 +177,7 @@ b. Tài khoản mặc định
 
 # 2. KIỂM TRA PORT MYSQL
 
-MySQL không phải lúc nào cũng dùng port 3306.
-
-* Cách kiểm tra port:
+MySQL không phải lúc nào cũng dùng port 3306. Cách kiểm tra port:
 
 Cách 1: Trong MySQL Workbench
 - Vào: Server Status
