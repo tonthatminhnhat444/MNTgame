@@ -152,7 +152,7 @@ cd MNTgame
 
 ---
 
-# . LƯU Ý 
+#  LƯU Ý 
 1. File MNTGame.jar đã được build sẵn và đã cấu hình kết nối database.
 Hãy đảm bảo bạn đã cài đặt JDK 22 và thiết lập môi trường database thành công thì mới có thể chạy game này.
 
