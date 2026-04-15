@@ -49,7 +49,7 @@ Mục tiêu là đến đích cuối cùng để hoàn thành game và đạt đ
  4. Cấu trúc project
 
 ```
-your-project/
+MNTgame/
 │
 ├── src/
 │   ├── DatabaseManager.java
