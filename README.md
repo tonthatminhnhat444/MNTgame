@@ -108,7 +108,7 @@ MNTgame/
 
 ---
 
- 5. 🎮 How to play
+ 5.  How to play
 
 * Sử dụng phím mũi tên để di chuyển nhân vật
 * Gặp monster → trả lời câu hỏi trắc nghiệm
@@ -118,7 +118,7 @@ MNTgame/
 
 ---
 
- 6. 📸 Screenshots (có sẵn folder Screen Short Image)
+ 6.  Screenshots (có sẵn folder Screen Short Image)
 
 ![1](TONTHATMINHNHAT_GAME/Screen%20Short%20Image/1_Name_typing_Box.png)
 ![2](TONTHATMINHNHAT_GAME/Screen%20Short%20Image/2_Intro_Story.png)
